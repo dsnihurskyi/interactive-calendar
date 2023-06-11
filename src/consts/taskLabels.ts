@@ -1,0 +1,18 @@
+export const TASK_LABEL_COLORS = [
+  '#8FBC8F',
+  '#FFEFD5',
+  '#228B22',
+  '#00008B',
+  '#3CB371',
+  '#FFFAFA',
+  '#FDF5E6',
+  '#FFA07A',
+  '#F0FFFF',
+  '#FFD700',
+  '#FFB6C1',
+  '#0000CD',
+  '#87CEFA',
+  '#6495ED',
+  '#D2B48C',
+  '#FAEBD7',
+];
